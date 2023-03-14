@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2023-Lesson2(Android)-ExampleApp</string>
+    <string name="to_next">Go To Next</string>
+    <string name="to_main">Go To Main</string>
+    <string name="in_main">In Main</string>
+    <string name="in_next">In Next</string>
+</resources>
